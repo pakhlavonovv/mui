@@ -33,7 +33,7 @@ const Index = () => {
       <ToastContainer />
         <div className="row">
           <div className="col-md-4 offset-3">
-            <div className="card bg-body-secondary" style={{width: "500px"}}>
+            <div className="card" style={{width: "500px"}}>
               <div className="card-header">
                 <h1 className='text-center'>Sign In</h1>
               </div>
